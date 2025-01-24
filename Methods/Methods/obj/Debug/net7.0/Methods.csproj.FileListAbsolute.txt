@@ -1,0 +1,14 @@
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\bin\Debug\net7.0\Methods.exe
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\bin\Debug\net7.0\Methods.deps.json
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\bin\Debug\net7.0\Methods.dll
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\bin\Debug\net7.0\Methods.pdb
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\obj\Debug\net7.0\Methods.dll
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\obj\Debug\net7.0\refint\Methods.dll
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\obj\Debug\net7.0\Methods.pdb
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+D:\ProjectsMetigator\CSharp_Lesson_009\Methods\Methods\obj\Debug\net7.0\ref\Methods.dll
